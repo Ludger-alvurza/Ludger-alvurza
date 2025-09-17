@@ -26,6 +26,20 @@ Passion gue ada di **pengembangan aplikasi web** dan **blockchain technology**.
 
 ---
 
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ludgerdushurit&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ludgerdushurit&theme=tokyonight" alt="GitHub Streak" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ludgerdushurit&layout=compact&theme=tokyonight" alt="Top Languages" height="180"/>
+</p>
+
+
+---
+
 ## 👨‍🏫 Activities
 - 🔹 Pengurus & pengajar di **UKRIM Programming Club**  
 - 🔹 Ngajarin mahasiswa baru buat kenal dunia programming  
