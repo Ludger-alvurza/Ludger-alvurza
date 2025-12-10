@@ -71,20 +71,15 @@ Passion gue ada di **pengembangan aplikasi web** dan **blockchain technology**.
 
 ## 👨‍🏫 Activities & Involvement
 
-```javascript
-const ludgerdus = {
-    role: "Full-Stack Developer & Blockchain Enthusiast",
-    education: "IT Student @ UKRIM",
-    activities: [
-        "🎓 Teaching at UKRIM Programming Club",
-        "💻 Mentoring junior developers",
-        "🔍 Exploring new technologies",
-        "📝 Writing technical documentation"
-    ],
-    currentFocus: "Building decentralized applications",
-    funFact: "I believe blockchain will revolutionize more than just finance! 🚀"
-};
-```
+- 🎓 **Teaching** at UKRIM Programming Club
+- 💻 **Mentoring** junior developers & students
+- 🔍 **Exploring** new technologies (Web3, AI, Cloud)
+- 📝 **Writing** technical documentation & tutorials
+- 🚀 **Building** decentralized applications
+- 🤝 **Contributing** to open-source projects
+
+**Current Focus:** Building decentralized applications & smart contracts  
+**Fun Fact:** I believe blockchain will revolutionize more than just finance! 🔗
 
 ---
 
@@ -117,23 +112,9 @@ const ludgerdus = {
 
 ## 🏆 GitHub Achievements
 
-<div align="center">
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=Ludger-alvurza&theme=onedark&no-frame=true&row=1&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-<details>
-<summary>🏅 More Achievements</summary>
-<br>
-
-<div align="center">
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=Ludger-alvurza&theme=onedark&no-frame=true&row=2&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-</details>
+<p align="center">
+  <img src="https://github-trophies.vercel.app/?username=Ludger-alvurza&theme=darkhub&no-frame=true&column=7&margin-w=10" alt="trophy" />
+</p>
 
 ---
 
