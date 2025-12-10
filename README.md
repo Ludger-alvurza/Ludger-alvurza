@@ -101,11 +101,23 @@ Passion gue ada di **pengembangan aplikasi web** dan **blockchain technology**.
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ludger-alvurza&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F8D866&fire=F85D7F&currStreakLabel=F8D866&sideLabels=FFFFFF" alt="GitHub Streak"/>
+  
+![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=Ludger-alvurza&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F8D866&fire=F85D7F&currStreakLabel=F8D866)
+
 </div>
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ludger-alvurza&theme=radical" alt="Contribution Graph"/>
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+  
+![](https://github-readme-activity-graph.vercel.app/graph?username=Ludger-alvurza&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=F8D866&line=F85D7F&point=FFFFFF)
+
 </div>
 
 ---
