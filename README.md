@@ -96,13 +96,13 @@ Passion gue ada di **pengembangan aplikasi web** dan **blockchain technology**.
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ludger-alvurza&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ludger-alvurza&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ludger-alvurza&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF&cache_seconds=1800"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ludger-alvurza&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&langs_count=8&hide=html,css&cache_seconds=1800&exclude_repo=repo-name-if-needed"/>
 </div>
 
 <div align="center">
   
-![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=Ludger-alvurza&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F8D866&fire=F85D7F&currStreakLabel=F8D866)
+![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=Ludger-alvurza&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F8D866&fire=F85D7F&currStreakLabel=F8D866&date_format=j%20M%5B%20Y%5D)
 
 </div>
 
@@ -127,20 +127,6 @@ Passion gue ada di **pengembangan aplikasi web** dan **blockchain technology**.
 <p align="center">
   <img src="https://github-trophies.vercel.app/?username=Ludger-alvurza&theme=darkhub&no-frame=true&column=7&margin-w=10" alt="trophy" />
 </p>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-  
-![](https://github-readme-activity-graph.vercel.app/graph?username=Ludger-alvurza&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=F8D866&line=F85D7F&point=FFFFFF)
-
-</div>
-
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Ludger-alvurza&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Contributed Repo"/>
-</div>
 
 ---
 
