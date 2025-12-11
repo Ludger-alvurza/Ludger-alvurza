@@ -1,0 +1,47 @@
+# .gitattributes - Language Detection Configuration
+# Put this file in the root of your repository
+
+# Mark language files as detectable
+*.js linguist-detectable=true
+*.ts linguist-detectable=true
+*.tsx linguist-detectable=true
+*.jsx linguist-detectable=true
+*.py linguist-detectable=true
+*.php linguist-detectable=true
+*.sol linguist-detectable=true
+*.java linguist-detectable=true
+*.go linguist-detectable=true
+*.rs linguist-detectable=true
+*.cpp linguist-detectable=true
+*.c linguist-detectable=true
+
+# Exclude files/folders from language stats
+*.json linguist-vendored
+*.lock linguist-vendored
+*.yml linguist-vendored
+*.yaml linguist-vendored
+*.toml linguist-vendored
+*.xml linguist-vendored
+*.md linguist-documentation
+
+# Exclude common directories
+node_modules/* linguist-vendored
+vendor/* linguist-vendored
+dist/* linguist-vendored
+build/* linguist-vendored
+public/* linguist-vendored
+assets/* linguist-vendored
+.github/* linguist-vendored
+docs/* linguist-documentation
+
+# If you have config files in root, exclude them
+package-lock.json linguist-generated
+yarn.lock linguist-generated
+composer.lock linguist-generated
+Gemfile.lock linguist-generated
+
+# Mark documentation as docs
+*.md linguist-documentation
+*.txt linguist-documentation
+LICENSE linguist-documentation
+README.md linguist-documentation
